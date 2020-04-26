@@ -8,6 +8,6 @@ It simply stores items in the Firebase Database to be seen in real-time among ap
 
 ## Samples
 
-<img src="https://github.com/chbandeira/flutter-todolist/blob/master/Screenshot_1.jpg" width="380" height="680">
-<img src="https://github.com/chbandeira/flutter-todolist/blob/master/Screenshot_2.jpg" width="380" height="680">
-<img src="https://github.com/chbandeira/flutter-todolist/blob/master/Screenshot_3.jpg" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_1.jpg" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_2.jpg" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_3.png">
