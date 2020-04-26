@@ -6,6 +6,12 @@ It simply stores items in the Firebase Database to be seen in real-time among ap
 
 - Add the file <b>google-services.json</b> in /android/app/ downloaded from the Firebase console.
 
+## Languages and Frameworks
+
+- Dart
+- Flutter
+- Firebase/Cloud Firestore
+
 ## Samples
 
 <img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_1.jpg" width="380" height="680">
