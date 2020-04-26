@@ -2,11 +2,12 @@
 
 A Flutter mobile application developed with Cloud Firestore as backend. 
 
-It simple store items in a list saved in real-time in the Firebase Database.
+It simply stores items in the Firebase Database to be seen in real-time among app users.
 
-Remeber put the file <b>google-services.json</b> in /android/app/
+- Add the file <b>google-services.json</b> in /android/app/ downloaded from the Firebase console.
 
+## Samples
 
-![Sample 1](https://github.com/chbandeira/flutter-todolist/blob/master/Screenshot_1.jpg)
-
-![Sample 2](https://github.com/chbandeira/flutter-todolist/blob/master/Screenshot_2.jpg)
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/Screenshot_1.jpg" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/Screenshot_2.jpg" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/Screenshot_3.jpg" width="380" height="680">
