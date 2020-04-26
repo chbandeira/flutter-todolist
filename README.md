@@ -10,7 +10,7 @@ It simply stores items in the Firebase Database to be seen in real-time among ap
 
 - Create a database on Firebase console.
 
-*This project was created to use in test mode. Make changes to use nn production mode.
+*This project was created to use in test mode. Make changes to use in production mode.
 
 ## Languages and Frameworks
 
