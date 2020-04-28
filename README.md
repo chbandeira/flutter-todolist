@@ -22,9 +22,9 @@ It is a To Do list which stores items in the Firebase Database to be seen in rea
 
 ## Samples
 
-<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_1.jpg" width="380" height="680">
-<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_2.jpg" width="380" height="680">
-<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_3.jpg" width="380" height="680">
-<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_4.jpg" width="380" height="680">
-<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_5.jpg" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_1.png" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_2.png" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_3.png" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_4.png" width="380" height="680">
+<img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_5.png" width="380" height="680">
 <img src="https://github.com/chbandeira/flutter-todolist/blob/master/images/Screenshot_6.png">
