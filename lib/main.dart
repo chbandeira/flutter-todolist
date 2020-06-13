@@ -1,17 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:fluttertodolist/pages/login-page.dart';
+import 'package:flutter_modular/flutter_modular.dart';
+import 'package:fluttertodolist/app/app_module.dart';
 
-void main() => runApp(MyApp());
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'TODO list',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: LoginPage(title: 'TODO list'),
-    );
-  }
+void main() {
+  runApp(ModularApp(module: AppModule()));
 }
